@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 class CustomTextField extends StatefulWidget {
   final String? hintText, text;
-  final bool? obscureText, enabled;
+  final bool? obscureText, enabled, isDense;
   final Function? onChanged;
   final TextEditingController? controller;
   final TextInputType? keyboardType;
@@ -37,6 +37,7 @@ class CustomTextField extends StatefulWidget {
     this.controller,
     this.prefixIcon,
     this.fillColor,
+    this.isDense = false,
   }) : super(key: key);
 
   @override
@@ -68,6 +69,7 @@ class _CustomTextFieldState extends State<CustomTextField> {
           fillColor: widget.fillColor,
           filled: true,
           counterText: '',
+          isDense: widget.isDense,
           errorText: widget.error,
           labelStyle: const TextStyle(color: Colors.grey),
           enabledBorder: outlineInputBorder,

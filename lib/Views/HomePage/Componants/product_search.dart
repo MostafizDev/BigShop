@@ -30,16 +30,21 @@ class _ProductSearchState extends State<ProductSearch> {
                   controller: searchController,
                   hintText: 'Search Products',
                   fillColor: Colors.white,
+                  //isDense: true,
                 ),
               ),
               Expanded(
-                  flex: 2,
-                  child: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Container(
-                        color: Colors.amber,
-                        child: Image.asset('assets/logo/group.png')),
-                  ))
+                flex: 2,
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Container(
+                    color: Colors.amber,
+                    child: Image.asset(
+                      'assets/logo/group.png',
+                    ),
+                  ),
+                ),
+              )
             ],
           ),
         ],
