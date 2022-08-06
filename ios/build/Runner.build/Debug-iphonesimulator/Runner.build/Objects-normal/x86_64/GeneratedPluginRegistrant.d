@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/mdmostafizurrahman/AndroidStudioProjects/shop/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
