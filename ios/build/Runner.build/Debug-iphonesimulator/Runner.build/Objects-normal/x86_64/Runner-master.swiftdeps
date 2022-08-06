@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
 options: "12c24ca9c63f87d6a7524b2722de230b5ff02fc9b0eb40452fec31420d1969b8"
-build_start_time: [1659784792, 415693044]
-build_end_time: [1659784793, 868998050]
+build_start_time: [1659787740, 992763996]
+build_end_time: [1659787743, 937347888]
 inputs:
   "/Users/mdmostafizurrahman/AndroidStudioProjects/shop/ios/Runner/AppDelegate.swift": [1657744753, 0]
